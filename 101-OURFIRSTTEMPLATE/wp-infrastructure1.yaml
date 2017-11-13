@@ -17,4 +17,4 @@ Resources:
   S3:
     Type: "AWS::S3::Bucket"
     Properties:
-      BucketName: wp-xxxxxx # replace xxxxxx with random
+      BucketName: wp-jdjd73dkskks33403kd # replace xxxxxx with random
